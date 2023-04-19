@@ -1,0 +1,1 @@
+alert("Este aplicativo foi criado por Rafael Koichi")
